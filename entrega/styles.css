@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  max-width: 1000px;
+  max-width: 100%;
   --primary-color-: #282730;
   --second-color-: #06c24f;
   --border-: var(--second-color-) dashed 1px;
